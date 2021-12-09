@@ -6,7 +6,11 @@ var animalDictionary = {
   "🦄": "Unicorn",
   "🦓": "Zebra",
   "🐱": "Cat",
-  "🐶": "Dog"
+  "🐶": "Dog",
+  "🐎": "Horse",
+  "🐍": "Snake",
+  "🐖": "Pig",
+  "🐀": "Rat"
 };
 
 var emojisWeKnow = Object.keys(animalDictionary);
